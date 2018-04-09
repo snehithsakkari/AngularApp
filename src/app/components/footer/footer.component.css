@@ -1,0 +1,21 @@
+.footer-links a.right-border{
+    border-right: 1px solid;
+}
+.footer-links a {
+    color: #fff;
+}
+.footer-links {
+    padding: 20px 0px 20px 0px;
+}
+.footer-links a.right-padding {
+    padding-right: 10px;
+}
+.footer-links a.left-padding {
+    padding-left: 10px;
+}
+footer {
+    background: black;
+}
+.footer-copyright {
+    color: #fff;
+}

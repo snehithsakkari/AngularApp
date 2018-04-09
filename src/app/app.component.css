@@ -1,0 +1,47 @@
+.breadcrumb-item + .breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    padding-left: .5rem;
+    content: ">";
+}
+.desc-details {
+    padding: 0px 5px 3px 10px;
+}
+.business-impact-desc {
+    border: none;
+}
+.inputbox-container {
+    border: 1px solid #ccc;
+    margin: 0px 10px 10px 10px;
+}
+.inputbox-container p {
+    font-size: 10px;
+    margin: 0 0 0 12PX;
+    color: #ccc;
+}
+input:focus {
+    border: none;
+    outline: none;
+    border-color: #fff;
+}
+.dropdown {
+    background-color: white;
+}
+.dropdown p {
+    font-size: 20px;
+    margin: 0 0 0 12PX;
+    color: #ccc;
+}
+.skypecall {
+        padding: 20px 50px 30px 20px;
+}
+.skypecall button {
+    height: 45px;
+    background-color: white;
+}
+.issue-desc {
+    border:none;
+}
+.reason-varaince {
+    border:none;
+}

@@ -1,0 +1,28 @@
+.navbar {
+    padding: 0px .5rem 0px 4rem;
+}
+a.nav-link {
+    color:#fff;
+}
+.nav-link {
+    padding: .5rem 1rem;
+    background: #5C8727;
+}
+
+.top-row-header-padding {
+    padding: 20px 0px 5px 0px;
+    background: #F2F2F2;
+}
+.logo-format {
+    padding: 8px 10px 9px 30px;
+    border-right: 1px solid #ccc;
+}
+.dashboard {
+    padding-left: 10px;
+}
+.signout{
+    height: 45px;
+}
+.signout button {
+    background: #f2f2f2;
+}
